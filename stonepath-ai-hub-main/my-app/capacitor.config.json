@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "stonepath-ai",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
